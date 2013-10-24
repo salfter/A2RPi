@@ -1,5 +1,5 @@
-This is a redesign of the Apple II Pi (http://schmenk.is-a-geek.com/wordpress/?cat=10), with
-the following goals:
+This is a redesign of the Apple II Pi
+(http://schmenk.is-a-geek.com/wordpress/?cat=10), with the following goals:
 
 1) Keep the design in files with an open format, editable with
    freely-available design software.
@@ -18,3 +18,10 @@ might not be widely available and (2) there are some bugs in the W65C51N
 that indicate it might be a better idea to use new-old-stock 6551s from
 other suppliers.  That is why the 6551 is still using the old DIP-28
 footprint.
+
+This design depends on symbols and footprints I have modified and/or created.
+You'll want to check out these companion repositories and make sure they're
+where your gschem and pcb can see them:
+
+https://github.com/salfter/gschem-symbols
+https://github.com/salfter/pcb-footprints
