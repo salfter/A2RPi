@@ -1,11 +1,11 @@
 This is a redesign of the Apple II Pi
 (http://schmenk.is-a-geek.com/wordpress/?cat=10), with the following goals:
 
-1) Keep the design in files with an open format, editable with
+1. Keep the design in files with an open format, editable with
    freely-available design software.
-2) Replace through-hole components with surface-mount components to the
+2. Replace through-hole components with surface-mount components to the
    extent that it's possible to do so.
-3) Enable future improvements to the design by anybody interested in doing
+3. Enable future improvements to the design by anybody interested in doing
    so (item 1 helps considerably with this).
 
 Recent discussion in comp.sys.apple2
@@ -23,5 +23,5 @@ This design depends on symbols and footprints I have modified and/or created.
 You'll want to check out these companion repositories and make sure they're
 where your gschem and pcb can see them:
 
-https://github.com/salfter/gschem-symbols
-https://github.com/salfter/pcb-footprints
+- https://github.com/salfter/gschem-symbols
+- https://github.com/salfter/pcb-footprints
