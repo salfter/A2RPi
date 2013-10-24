@@ -2,3 +2,4 @@
 *-
 *.bak*
 nohup.out
+*.pdf
