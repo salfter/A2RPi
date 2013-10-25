@@ -3,5 +3,7 @@
 *.bak*
 nohup.out
 *.pdf
-*.gbr
+*.g*
+*.xln
 *.cnc
+*.zip
